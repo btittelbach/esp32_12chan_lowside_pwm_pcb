@@ -1,0 +1,15 @@
+# PCB
+Size: 165mm x 48mm
+Layer: 4
+Layer Order: F, In1, In2, B
+Material: FR-4
+Thickness: 1.6mm
+Outter Copper: 1oz Cu
+Inner Copper: 1oz Cu
+
+# Assembly
+Top-Side only
+Number of unique Parts:	32
+Fitted Components:	88
+Number SMD Parts	28
+Number TH Parts	4
