@@ -11,5 +11,6 @@ Inner Copper: 1oz Cu
 Top-Side only
 Number of unique Parts:	32
 Fitted Components:	88
-Number SMD Parts	28
-Number TH Parts	4
+Number SMD Parts:	28
+Number of BGA/QFP Parts: 0
+Number TH Parts:	4
