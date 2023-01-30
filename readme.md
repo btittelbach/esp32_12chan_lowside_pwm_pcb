@@ -7,7 +7,7 @@ It's designed to work with WLED firmware and can drive 4 RGB LED strips.
 You can however use it for whatever you want.
 Free-wheeling diodes where added, in case someone wants to use it to drive bigger inductive loads.
 
-[img_front](renderings/pcb_esp32_wled_pwm_multichannel_front.jpg)
+![img_front](renderings/pcb_esp32_wled_pwm_multichannel_front.jpg)
 
 ## Power
 
