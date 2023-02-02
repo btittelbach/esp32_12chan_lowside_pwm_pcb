@@ -9,6 +9,8 @@ Free-wheeling diodes where added, in case someone wants to use it to drive bigge
 
 ![img_front](renderings/pcb_esp32_wled_pwm_multichannel_front.jpg)
 
+[Schematic](renderings/pcb_esp32_wled_pwm_multichannel.pdf)
+
 ## Power
 
 ### Input
@@ -26,3 +28,7 @@ The four screw terminals each group VDD as well as 4 gpio controlled pwm-channel
 - terminal 3: VDD, gpio23, gpio25, gpio26
 - terminal 4: VDD, gpio27, gpio32, gpio33
 
+## Firmware
+
+for easy use, flash WLED-ESP32 and use web-interface to configure
+4 "LEDS" as RGB-Strips with gpio pins listed above.
