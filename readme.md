@@ -32,3 +32,19 @@ The four screw terminals each group VDD as well as 4 GPIO controlled PWM-channel
 
 for easy use, flash WLED-ESP32 and use web-interface to configure
 4 "LEDS" as RGB-Strips with GPIO pins listed above.
+
+## Manufacturing Cost
+
+the board was not designed to minimize costs, but for durability.
+
+### Expensive Parts
+- the MosFETs
+- the choosen ESP32, though you may choose a version with less Flash
+- the QFN USB to UART bridge
+- the buck regulator
+
+### Costs
+
+- per PCB the parts cost roughly 28 USD
+- production+assembly+parts come to roughly 39 USD per PCB
+
