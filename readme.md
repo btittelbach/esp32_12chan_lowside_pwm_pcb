@@ -1,11 +1,11 @@
 # esp32_12chan_lowside_pwm_pcb
 
-Open Hardware PCB designed to drive 12 lowside pwm channels.
+Open Hardware PCB designed to drive 12 low-side PWM channels.
 
-It's designed to work with WLED firmware and can drive 4 RGB LED strips.
+It's designed to work with e.g. WLED firmware and can drive up to 4 RGB LED strips.
 
 You can however use it for whatever you want.
-Free-wheeling diodes where added, in case someone wants to use it to drive bigger inductive loads.
+Free-wheeling diodes were added, in case someone wants to use it to drive bigger inductive loads.
 
 ![img_front](renderings/pcb_esp32_wled_pwm_multichannel_front.jpg)
 
@@ -21,7 +21,7 @@ Or power via screw-terminal: DC from 4V up to 28V.
 
 ### Output
 
-The four screw terminals each group VDD as well as 4 gpio controlled pwm-channels to GND.
+The four screw terminals each group VDD as well as 4 GPIO controlled PWM-channels to GND.
 
 - terminal 1: VDD, gpio16, gpio17, gpio18
 - terminal 2: VDD, gpio19, gpio21, gpio22
@@ -31,4 +31,4 @@ The four screw terminals each group VDD as well as 4 gpio controlled pwm-channel
 ## Firmware
 
 for easy use, flash WLED-ESP32 and use web-interface to configure
-4 "LEDS" as RGB-Strips with gpio pins listed above.
+4 "LEDS" as RGB-Strips with GPIO pins listed above.
