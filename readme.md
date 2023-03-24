@@ -33,9 +33,14 @@ The four screw terminals each group VDD as well as 4 GPIO controlled PWM-channel
 for easy use, flash WLED-ESP32 and use web-interface to configure
 4 "LEDS" as RGB-Strips with GPIO pins listed above.
 
-## Manufacturing Cost
+## Manufacturing
 
 the board was not designed to minimize costs, but for durability.
+
+The folder `esp32_12chan_lowside_pwm_pcb_v2` includes all manufacturing files and information,
+so you should easily be able to order your own.
+
+See [fabrication_data.md](esp32_12chan_lowside_pwm_pcb_v2/fabrication_data.md) for specs often asked in order to get a quote.
 
 ### Expensive Parts
 - the MosFETs
