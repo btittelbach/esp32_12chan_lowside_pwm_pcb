@@ -19,6 +19,12 @@ Power by USB for easy flashing.
 
 Or power via screw-terminal: DC from 4V up to 28V.
 
+#### optional Sound-Reactive Microphone Input
+
+- I2S SD pin: gpio4
+- I2S WS pin: gpio14
+- I2S SCK pin: gpio13
+
 ### Output
 
 The four screw terminals each group VDD as well as 4 GPIO controlled PWM-channels to GND.
