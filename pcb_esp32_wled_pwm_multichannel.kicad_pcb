@@ -8307,7 +8307,7 @@
   (gr_text "SCK WS L/R" (at 47.005 47.852) (layer "F.SilkS") (tstamp 94c91c00-7f9a-42a5-a6b8-d02c81d19256)
     (effects (font (size 1 1) (thickness 0.2)))
   )
-  (gr_text "esp32_12chan_lowside_pwm_pcb_v2" (at 91.059 83.693) (layer "F.SilkS") (tstamp 98955fac-fe77-4f52-bb02-eac55abd106f)
+  (gr_text "esp32_12chan_lowside_pwm_pcb_v3" (at 91.059 83.693) (layer "F.SilkS") (tstamp 98955fac-fe77-4f52-bb02-eac55abd106f)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
   (gr_text "+ 23 25 26" (at 134.62 48.895) (layer "F.SilkS") (tstamp 9a79daed-44d5-4729-9188-9ee73cc8803c)
