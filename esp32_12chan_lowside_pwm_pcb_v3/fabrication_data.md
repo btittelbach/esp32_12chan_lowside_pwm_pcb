@@ -11,8 +11,8 @@
 # Assembly
 
 - Top-Side only
-- Number of unique Parts:	31
+- Number of unique Parts:	32
 - Fitted Components:	87
-- Number SMD Parts:	27
+- Number SMD Parts:	28
 - Number of BGA/QFP Parts: 0
 - Number TH Parts:	4
