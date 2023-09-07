@@ -5,7 +5,7 @@
 - Layer Order: F, In1, In2, B
 - Material: FR-4
 - Thickness: 1.6mm
-- Outter Copper: 1oz Cu
+- Outter Copper: 1oz-2oz Cu
 - Inner Copper: 1oz Cu
 
 # Assembly
