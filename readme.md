@@ -43,10 +43,10 @@ for easy use, flash WLED-ESP32 and use web-interface to configure
 
 the board was not designed to minimize costs, but for durability.
 
-The folder `esp32_12chan_lowside_pwm_pcb_v2` includes all manufacturing files and information,
+The folder `esp32_12chan_lowside_pwm_pcb_v3` includes all manufacturing files and information,
 so you should easily be able to order your own.
 
-See [fabrication_data.md](esp32_12chan_lowside_pwm_pcb_v2/fabrication_data.md) for specs often asked in order to get a quote.
+See [fabrication_data.md](esp32_12chan_lowside_pwm_pcb_v3/fabrication_data.md) for specs often asked in order to get a quote.
 
 ### Expensive Parts
 - the MosFETs
