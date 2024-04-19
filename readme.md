@@ -59,3 +59,14 @@ See [fabrication_data.md](esp32_12chan_lowside_pwm_pcb_v3/fabrication_data.md) f
 - per PCB the parts cost roughly 28 USD
 - production+assembly+parts come to roughly 39 USD per PCB
 
+
+## License
+
+This project is licensed under the CERN OH License - see the [LICENSE](LICENSE.txt) file for details
+
+## Photos
+
+
+![img](photos/photo_1.jpg)
+![img](photos/photo_2.jpg)
+
