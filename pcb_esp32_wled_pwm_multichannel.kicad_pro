@@ -519,7 +519,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "esp32_12chan_lowside_pwm_pcb_v3/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "pcb_esp32_wled_pwm_multichannel.step",
@@ -530,7 +530,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "",
+    "bom_export_filename": "pcb_esp32_wled_pwm_multichannel_bom_.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",

@@ -1,0 +1,45 @@
+Description,Part,References,Value,Footprint,Quantity Per PCB,MF,SMD,Distributor,LCSC,MP,TH,Vf,If,DNF
+Unpolarized capacitor,C,C107,100nF/50V,C_0603_1608Metric,1,FH,1,LCSC,C42998,0603F104M500NT,,,,
+Polarized capacitor,C_Polarized,C116,100µF/50V,CP_Elec_6.3x7.7,1,Lelon,1,LCSC,C311622,VZT101M1HTR-0607,,,,
+Unpolarized capacitor,C,C111,1nF/50V,C_0603_1608Metric,1,YAGEO,1,LCSC,C100040,CC0603KRX7R9BB102,,,,
+Unpolarized capacitor,C,C112 C113,22uF/25V(10%),C_1210_3225Metric,2,Taiyo Yuden,1,LCSC,C337455,TMK325B7226KM-TR,,,,
+Polarized capacitor,C_Polarized,C117,330µF/6.3V,CP_Elec_6.3x7.7,1,RVT0J331M0607,1,LCSC,C74623,ROQANG,,,,
+Unpolarized capacitor,C,C101 C102 C103 C104 C105 C106,CL05A106MQ5NUN,C_0402_1005Metric,6,Samsung Electro-Mechanics,1,LCSC,C15525,CL05A106MQ5NUN,,,,
+"40V 1A Schottky Barrier Rectifier Diode, DO-41",1N5819,D118,1N5819,D_DO-41_SOD81_P10.16mm_Horizontal,1,,0,,,,1,,,
+Schottky diode,D_Schottky,D101 D102 D103 D104 D105 D106 D107 D108 D109 D110 D111 D112 D114,D_Schottky,D_SOD-123F,13,Shanghai Prisemi Elec,1,LCSC,C496544,PSBD1DF40V2L,,,,
+Light emitting diode,LED,D113,GREEN_LED,LED_0603_1608Metric,1,Foshan NationStar Optoelectronics,1,LCSC,C89809,NCD0603C3,0,1.6V,25mA,
+Bidirectional transient-voltage-suppression diode,D_TVS,D115 D116 D117,LESD5D5.0CT1G,D_SOD-523,3,LRC,1,LCSC,C383211,LESD5D5.0CT1G,0,,,
+"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02_Female,J108,Conn_01x02_Female,2EDGRC-5.08-02P-14-100AH,1,Ningbo Kangnex Elec,0,LCSC,C3697,WJ2EDGRC-5.08-2P,1,,,
+"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03_Female,J106 J107,Conn_01x03_Female,PinSocket_1x03_P2.54mm_Vertical,2,generic,0,LCSC,C358717,"PinHeader,Feamle,P=2.54mm,3Pin,1Row,1A",1,,,
+USB 2.0-only Type-C Receptacle connector,USB_C_Receptacle_USB2.0,J109,USB_C_Receptacle_USB2.0,USB_C_Receptacle_CIKI_TYPE-C-2.0-16PIN-SMT-3,1,CIKI,1,LCSC,C2987386,TYPE-C-2.0-16PIN-SMT-3,0,,,
+"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04_Female,J101 J102 J103 J104,WJ2EDGRC-5.08-4P,2EDGRC-5.08-04P-14-100AH,4,Ningbo Kangnex Elec,0,LCSC,C8446,WJ2EDGRC-5.08-4P,1,,,
+Inductor,L,L101,330µH,L_12x12mm_H8mm,1,SHOU HAN,1,LCSC,C2929508,CYH127-330UH,,,,
+"62A Id, 30V Vds, 8.7 mOhm Rds, N-Channel HEXFET Power MOSFET, TO-220",IRLB8721PBF,Q101 Q102 Q103 Q104 Q105 Q106 Q107 Q108 Q109 Q110 Q111 Q112,IRLR8743TRPBF,TO-252-2,12,Infineon Technologies,1,LCSC,C3040285,IRLR8743TRPBF,0,,,
+"NPN Darlington transistor, base/emitter/collector",Q_NPN_Darlington_BEC,Q113 Q114,Q_NPN_Darlington_BEC,SOT-23,2,JIANGSU CHANGJIANG ELECTRONICS,1,LCSC,C164885,SS8050,,,,
+Resistor,R,R114 R117 R118 R121 R131 R132 R133 R134 R135 R136 R137 R138 R139 R140 R141 R142,10K(5%),R_0603_1608Metric,16,,1,,,,,,,
+Resistor,R,R123 R124,22(1%),R_0603_1608Metric,2,,1,,,,,,,
+Resistor,R,R122,22K(1%),R_0603_1608Metric,1,,1,,,,,,,
+Resistor,R,R119,2K(5%),R_0603_1608Metric,1,,1,,,,0,,,
+Resistor,R,R120,47K(5%),R_0603_1608Metric,1,,1,,,,,,,
+Resistor,R,R125 R126,5k1 (5%),R_0603_1608Metric,2,,1,,,,0,,,
+Resistor,R,R113,68Ω/1%,R_0603_1608Metric,1,YAGEO,1,LCSC,C126362,RC0603FR-0768RL,0,,,
+Resistor,R,R101 R102 R103 R104 R105 R106 R107 R108 R109 R110 R111 R112,91(1%),R_0603_1608Metric,12,,1,,,,,,,
+"Push button switch, generic, two pins",SW_Push,SW101 SW102,SW_Push,SW_SPST_B3SL-1022P,2,Omron Electronics,1,LCSC,C86708,B3SL-1022P,,,,
+"USB to UART master bridge, QFN-24",CP2102N-Axx-xQFN24,U103,CP2102N-Axx-xQFN24,QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm,1,Silicon Labs,1,LCSC,C969151,CP2102N-A02-GQFN24R,0,,,
+"RF Module, ESP32-D0WDQ6 SoC, Wi-Fi 802.11b/g/n, Bluetooth, BLE, 32-bit, 2.7-3.6V, onboard antenna, SMD",ESP32-WROOM-32,U101,ESP32-WROOM-32U,ESP32-WROOM-32U,1,Espressif,1,LCSC,C328062,ESP32-WROOM-32U,,,,
+"Fixed 3.3V 52kHz Simple 1A Buck Regulator, TO-263",LM2575-3.3BU,U102,LM2575-3.3BU,TO-263-5_TabPin3,1,onsemi,1,LCSC,C70337,LM2575D2T-3.3R4G,,,,
+
+
+
+
+
+Component Groups:,30
+Component Count:,95
+Fitted Components:,94
+Number of PCBs:,1
+Total components:,94
+Schematic Version:,
+Schematic Date:,2022-08-03
+BoM Date:,2025-01-25T22:42:44+0100
+Schematic Source:,/home/bernhard/source/pcb_esp32_wled_pwm_multichannel/pcb_esp32_wled_pwm_multichannel.kicad_sch
+KiCad Version:,Eeschema 8.0.8-8.0.8-0~ubuntu24.04.1
