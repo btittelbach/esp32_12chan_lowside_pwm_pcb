@@ -11272,7 +11272,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "5A 1 16P Female Type-C SMD USB Connectors ROHS"
 			(at 336.55 41.91 0)
 			(effects
 				(font
@@ -11290,7 +11290,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C2987386"
+		(property "LCSC" "C165948"
 			(at 336.55 41.91 0)
 			(effects
 				(font
@@ -11299,7 +11299,7 @@
 				(hide yes)
 			)
 		)
-		(property "MF" "CIKI"
+		(property "MF" "Korean Hroparts Elec"
 			(at 336.55 41.91 0)
 			(effects
 				(font
@@ -11308,7 +11308,7 @@
 				(hide yes)
 			)
 		)
-		(property "MP" "TYPE-C-2.0-16PIN-SMT-3"
+		(property "MP" "TYPE-C-31-M-12"
 			(at 336.55 41.91 0)
 			(effects
 				(font
