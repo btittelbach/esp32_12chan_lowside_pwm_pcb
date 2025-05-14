@@ -1,12 +1,13 @@
 # PCB
 
-- Size: 163mm x 48mm
+- Size: 162.6mm x 48.3mm
 - Layer: 4
 - Layer Order: F, In1, In2, B
 - Material: FR-4
 - Thickness: 1.6mm
 - Outter Copper: 1oz-2oz Cu
 - Inner Copper: 1oz Cu
+- Min Hole Size: 0.2
 
 # Assembly
 
