@@ -56,8 +56,10 @@ See [fabrication_data.md](esp32_12chan_lowside_pwm_pcb_v3/fabrication_data.md) f
 
 ### Costs
 
-- per PCB the parts cost roughly 28 USD
-- production+assembly+parts come to roughly 39 USD per PCB
+big price hike in 2025:
+
+- per PCB the parts cost roughly 23 USD
+- production+assembly+parts come to roughly 54 USD per PCB
 
 
 ## License
@@ -69,4 +71,10 @@ This project is licensed under the CERN OH License - see the [LICENSE](LICENSE.t
 
 ![img](photos/photo_1.jpg)
 ![img](photos/photo_2.jpg)
+
+## Ordering
+
+List of PCB Suppliers which one-click ordering for the board. (so far only one)
+
+- [PCBWay](https://www.pcbway.com/project/shareproject/W18448ASS50_esp32_12chan_wled_pwm_v3_13ab729a.html)
 
